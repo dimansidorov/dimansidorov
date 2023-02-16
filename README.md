@@ -1,13 +1,13 @@
 ### 👋 Howdy, fellow coders!
-My name is Dmitry. I'm a backend developer with a strong foundation in Python and experience with Django.
+My name is Dmitry. I'm a **backend developer** with a strong foundation in Python and experience with Django.
 
 ### About me
 - 🎓 I hold a **Bachelor of Business Administration from Moscow State University of Technology and Management**
 - 🧠 Thinking in **Python** language
 - 🌱 Currently, I'm focusing on learning more about the **Flask framework to develop REST APIs and microservices**
 - 🎵 When I'm not coding, you can find me at music festivals
-- 🏃‍♂️ I'm a **dedicated sports enthusiast** with a passion for staying active and fit
-- 👨‍💻 I'm always open to collaborating on exciting projects, so feel free to reach out and connect with me.
+- 🏃‍♂️ I'm a dedicated sports enthusiast with a passion for staying active and fit
+- 👨‍💻 I'm always **open to collaborating on exciting projects**, so feel free to reach out and connect with me.
 
 
 
