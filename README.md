@@ -1,36 +1,31 @@
-## 🙋‍♂️ Hi there
-### My name is Dmitry. I'm a Backend Developer
+### 👋 Howdy, fellow coders!
+My name is Dmitry. I'm a backend developer with a strong foundation in Python and experience with Django.
 
 ### About me
-- 🎓 **Education**: Moscow State University of Technology and Management - B.B.A. Bachelor of Business Administration
-- 🌱 I’m currently learning **Flask Framework**
-- 🎫 I love experiencing live music and soaking up the festival atmosphere
-- 🏃‍♂️ I'm a **dedicated sports enthusiast** with a passion for staying active and fit
+- 🎓 I hold a **Bachelor of Business Administration from Moscow State University of Technology and Management**
 - 🧠 Thinking in **Python** language
+- 🌱 Currently, I'm focusing on learning more about the **Flask framework to develop REST APIs and microservices**
+- 🎵 When I'm not coding, you can find me at music festivals
+- 🏃‍♂️ I'm a **dedicated sports enthusiast** with a passion for staying active and fit
+- 👨‍💻 I'm always open to collaborating on exciting projects, so feel free to reach out and connect with me.
 
 
 
 ### Languages and Tools
 <div>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50"/> -->
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/>
+<!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="50" height="50"/> -->
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="50" height="50"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="50" height="50"/>
 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
-	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="50" height="50"/>
 <!-- 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/> -->
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="50" height="50"/>
+
           
 </div>
 
-<!-- <h1>My Statistic</h1>
-<div id="stat">
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimansidorov&theme=tokyonight"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=dimansidorov&theme=tokyonight"/>
-	<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dimansidorov&theme=tokyonight"/>
-	
-</div> -->
 
 ### You can get in touch with me
 
