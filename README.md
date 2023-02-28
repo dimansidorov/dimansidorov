@@ -34,7 +34,7 @@ My name is Dmitry. I'm a **backend developer** with a strong foundation in Pytho
 
 <div id="socials">
 	<a href="https://www.linkedin.com/in/dmitrysidorov/">
-    <img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="LinkedIn" width="40" height="40"/>
+    		<img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="LinkedIn" width="40" height="40"/>
 	</a>
 	<a href="https://t.me/dimansidorov">
 		<img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="40" height="40"/>
