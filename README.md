@@ -34,7 +34,7 @@ My name is Dmitry. I'm a **backend developer** with a strong foundation in Pytho
 
 <div id="socials">
 	<a href="https://www.linkedin.com/in/dmitrysidorov/">
-    		<img src="https://cdn-icons-png.flaticon.com/512/1384/1384072.png" alt="LinkedIn" width="40" height="40"/>
+    		<img src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="LinkedIn" width="40" height="40"/>
 	</a>
 	<a href="https://t.me/dimansidorov">
 		<img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" alt="Telegram" width="40" height="40"/>
@@ -44,6 +44,9 @@ My name is Dmitry. I'm a **backend developer** with a strong foundation in Pytho
 	</a>
 	<a href="mailto:dimansidorow@gmail.com">
 		<img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="40" height="40"/>
+	</a>
+	<a href="mailto:dimansidorow@yandex.ru">
+		<img src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" alt="YandexMail" width="40" height="40"/>
 	</a>
 <!--   <a href="https://vk.com/id21097153">
 		<img src="https://cdn-icons-png.flaticon.com/512/2504/2504953.png" alt="VK" width="40" height="40"/>
