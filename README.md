@@ -42,10 +42,10 @@ My name is Dmitry. I'm a **backend developer** with a strong foundation in Pytho
   	<a href="https://www.instagram.com/dimansidorov/">
 		<img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40"/>
 	</a>
-	<a href="mailto:dimansidorow@gmail.com">
+	<a href="mailto:dimkasidorow@gmail.com">
 		<img src="https://cdn-icons-png.flaticon.com/512/888/888853.png" alt="Gmail" width="40" height="40"/>
 	</a>
-	<a href="mailto:dimansidorow@yandex.ru">
+	<a href="mailto:dimkasidorow@yandex.ru">
 		<img src="https://cdn-icons-png.flaticon.com/512/6124/6124986.png" alt="YandexMail" width="40" height="40"/>
 	</a>
 <!--   <a href="https://vk.com/id21097153">
