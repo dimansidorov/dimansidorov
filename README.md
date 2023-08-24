@@ -4,10 +4,10 @@ My name is Dmitry. I'm a **backend developer** with a strong foundation in Pytho
 ### About me
 - 🎓 I hold a **Bachelor of Business Administration from Moscow State University of Technology and Management**
 - 🧠 Thinking in **Python** language
-- 🌱 Currently, I'm focusing on learning more about the <a href="https://github.com/dimansidorov/fastapi_project">**FastAPI to develop REST APIs and microservices**</a>
 - 🎵 When I'm not coding, you can find me at music festivals
 - 🏃‍♂️ I'm a dedicated sports enthusiast with a passion for staying active and fit
 - 👨‍💻 I'm always **open to collaborating on exciting projects**, so feel free to reach out and connect with me.
+<!-- - 🌱 Currently, I'm focusing on learning more about the <a href="https://github.com/dimansidorov/fastapi_project">**FastAPI to develop REST APIs and microservices**</a>-->
 
 
 
